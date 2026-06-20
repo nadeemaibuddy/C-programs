@@ -1,0 +1,91 @@
+I want to create a mobile app inspired by the anime Solo Leveling, where the protagonist receives daily missions from a mysterious “System” that helps him grow stronger.
+
+In the same spirit, this app should serve as a spiritual leveling system for Muslims, where the “System” assigns five essential daily prayer tasks:
+
+Fajr
+
+Dhuhr
+
+Asr
+
+Maghrib
+
+Isha
+
+🎯 Core Functionality Each prayer completed is logged and adds XP to the user’s spiritual “Level,” visualized through ranks (e.g., Bronze ➝ Silver ➝ Gold ➝ Diamond).
+
+The tasks reset daily, just like quests in Solo Leveling.
+
+❌ Penalty System (Accountability Mode) If the user misses 1 prayer, the app automatically blocks all social media apps (e.g., Instagram, TikTok, YouTube, Facebook), while WhatsApp remains accessible.
+
+If the user misses 2 or more prayers, the app blocks both games and social media, again only allowing WhatsApp.
+
+Punishment carries over to the next day if the user fails to complete tasks.
+
+✅ Verification & Parental Approval Prayer completion must be verified by a parent or guardian. The app sends a “Yes/No” prompt to the parent’s phone for each prayer.
+
+The user's level progression and app access depend on verified responses.
+
+🔐 App Control & Enforcement The app should integrate with the device’s system (via Android’s Digital Wellbeing API or similar) to enforce app restrictions, making it impossible to bypass.
+
+The app itself can temporarily disable or block itself if too many tasks are missed, adding a real consequence like the “System” giving punishments in Solo Leveling.
+
+🧠 Goal To motivate consistent prayer through a powerful gamified accountability system that blends faith, discipline, and anime-style progression, helping young Muslims build habits like a true “Hunter” of righteousness.
+
+
+
+the task is completed or not it should be decide by the parents by reciving two steps verification on there phone
+
+
+
+✨ Level-Up Rewards System Unlock rewards based on prayer consistency and XP:
+
+Bronze: Inspirational wallpapers & badges
+
+Silver: Custom avatar gear (cloaks, swords, aura effects)
+
+Gold: Access to mini challenges and story arcs (e.g., defeating laziness monsters)
+
+Diamond: Personalized messages from respected scholars, or access to special content like mini lectures
+
+🕌 Mission Lore & Daily Boosts Make each prayer feel like a quest from the “System”:
+
+Daily notifications with quest-like flavor text: “The System has summoned you at dawn. Complete Fajr to gain light and clarity…”
+
+Bonus XP for completing all five prayers consistently for a week (call it “Spiritual Streak”)
+
+📱 Parental Companion App Instead of just push confirmations:
+
+Parents get a dashboard with insights on consistency, progress, and streaks
+
+Ability to send motivational boosts or Qur’anic verses as encouragement
+
+📉 In-App Penalty Narrative Instead of hard blocks, use thematic storytelling:
+
+“A Shadow of Distraction has weakened your focus. Social realms are locked until the next prayer mission is fulfilled.”
+
+Build consequences into a story—less punishment, more redemption arc
+
+🔒 Smart Restriction Control Integrate with system permissions or external APIs:
+
+Use Focus Mode profiles to automate app restrictions
+
+Parents can temporarily lock/unlock apps based on verified progress
+
+
+
+user had to login with there phone number and they had to add the number of there parents so that they will mark the task to completed and no penalty will be given to the user
+
+add an ai feature where the user can ask the doubt only about the religion
+
+
+
+change the app name to way to Jannat
+
+
+
+the panalty should be real and the app should not open for one day if the user faild to perform task
+
+
+
+
